@@ -1,5 +1,5 @@
 {
-  "homepage": "https://benjaminnngo.github.io/",
+  "homepage": "https://benjaminnngo.github.io",
   "name": "cv",
   "version": "0.1.0",
   "private": true,
@@ -66,6 +66,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",
+    "gh-pages": "^5.0.0",
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.23"
   }
